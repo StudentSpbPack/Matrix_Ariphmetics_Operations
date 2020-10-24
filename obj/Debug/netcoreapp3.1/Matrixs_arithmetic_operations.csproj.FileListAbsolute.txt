@@ -1,0 +1,12 @@
+C:\Курсяу\5\Homework_1\bin\Debug\netcoreapp3.1\Matrixs_arithmetic_operations.exe
+C:\Курсяу\5\Homework_1\bin\Debug\netcoreapp3.1\Matrixs_arithmetic_operations.deps.json
+C:\Курсяу\5\Homework_1\bin\Debug\netcoreapp3.1\Matrixs_arithmetic_operations.runtimeconfig.json
+C:\Курсяу\5\Homework_1\bin\Debug\netcoreapp3.1\Matrixs_arithmetic_operations.runtimeconfig.dev.json
+C:\Курсяу\5\Homework_1\bin\Debug\netcoreapp3.1\Matrixs_arithmetic_operations.dll
+C:\Курсяу\5\Homework_1\bin\Debug\netcoreapp3.1\Matrixs_arithmetic_operations.pdb
+C:\Курсяу\5\Homework_1\obj\Debug\netcoreapp3.1\Matrixs_arithmetic_operations.AssemblyInfoInputs.cache
+C:\Курсяу\5\Homework_1\obj\Debug\netcoreapp3.1\Matrixs_arithmetic_operations.AssemblyInfo.cs
+C:\Курсяу\5\Homework_1\obj\Debug\netcoreapp3.1\Matrixs_arithmetic_operations.csproj.CoreCompileInputs.cache
+C:\Курсяу\5\Homework_1\obj\Debug\netcoreapp3.1\Matrixs_arithmetic_operations.dll
+C:\Курсяу\5\Homework_1\obj\Debug\netcoreapp3.1\Matrixs_arithmetic_operations.pdb
+C:\Курсяу\5\Homework_1\obj\Debug\netcoreapp3.1\Matrixs_arithmetic_operations.genruntimeconfig.cache

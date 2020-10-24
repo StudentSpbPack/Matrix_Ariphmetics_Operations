@@ -1,0 +1,13 @@
+C:\Курсяу\5\Homework_1\bin\Debug\netcoreapp3.1\Homework_1.exe
+C:\Курсяу\5\Homework_1\bin\Debug\netcoreapp3.1\Homework_1.deps.json
+C:\Курсяу\5\Homework_1\bin\Debug\netcoreapp3.1\Homework_1.runtimeconfig.json
+C:\Курсяу\5\Homework_1\bin\Debug\netcoreapp3.1\Homework_1.runtimeconfig.dev.json
+C:\Курсяу\5\Homework_1\bin\Debug\netcoreapp3.1\Homework_1.dll
+C:\Курсяу\5\Homework_1\bin\Debug\netcoreapp3.1\Homework_1.pdb
+C:\Курсяу\5\Homework_1\obj\Debug\netcoreapp3.1\Homework_1.csprojAssemblyReference.cache
+C:\Курсяу\5\Homework_1\obj\Debug\netcoreapp3.1\Homework_1.AssemblyInfoInputs.cache
+C:\Курсяу\5\Homework_1\obj\Debug\netcoreapp3.1\Homework_1.AssemblyInfo.cs
+C:\Курсяу\5\Homework_1\obj\Debug\netcoreapp3.1\Homework_1.csproj.CoreCompileInputs.cache
+C:\Курсяу\5\Homework_1\obj\Debug\netcoreapp3.1\Homework_1.dll
+C:\Курсяу\5\Homework_1\obj\Debug\netcoreapp3.1\Homework_1.pdb
+C:\Курсяу\5\Homework_1\obj\Debug\netcoreapp3.1\Homework_1.genruntimeconfig.cache
